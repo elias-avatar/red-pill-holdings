@@ -1,6 +1,6 @@
-# Red Pill Holdings
+# Red Pill Holding
 
-A modern, responsive website for Red Pill Holdings showcasing the company's team, portfolio companies, and mission.
+A modern, responsive website for Red Pill Holding showcasing the company's team, portfolio companies, and mission.
 
 ## Features
 
@@ -21,7 +21,7 @@ A modern, responsive website for Red Pill Holdings showcasing the company's team
 ## Project Structure
 
 ```
-Red Pill Holdings/
+Red Pill Holding/
 ├── index.html          # Main HTML file
 ├── styles.css          # All styling and responsive design
 ├── script.js           # JavaScript functionality
@@ -67,4 +67,4 @@ Red Pill Holdings/
 
 ## License
 
-This project is proprietary to Red Pill Holdings. 
+This project is proprietary to Red Pill Holding. 
